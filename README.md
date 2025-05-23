@@ -15,7 +15,7 @@ Este é um projeto em React que permite pesquisar por filmes usando a API do TMD
 
 # 📸 Captura de Tela
 
-(./public/image.png)
+<img src="public/image.png">
 
 
 # 🛠️ Tecnologias Utilizadas
@@ -41,7 +41,9 @@ Pré-requisitos
 **Passo a passo**
 
 1. Clone o repositório:
+   
 	git clone https://github.com/cristianosch/movie-search-app.git
+
 	cd movie-search-app
 
 2. Instale as dependências:
